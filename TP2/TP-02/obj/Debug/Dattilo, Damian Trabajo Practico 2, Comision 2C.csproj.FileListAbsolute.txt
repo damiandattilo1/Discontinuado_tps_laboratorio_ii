@@ -1,0 +1,10 @@
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\TP-02.exe
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\TP-02.pdb
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\Entidades.dll
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\Entidades.pdb
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\Dattilo, Damian Trabajo Practico 2, Comision 2C.csproj.AssemblyReference.cache
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\Dattilo, Damian Trabajo Practico 2, Comision 2C.csproj.CoreCompileInputs.cache
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\Dattilo, Damian Trabajo Practico 2, Comision 2C.csproj.CopyComplete
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\TP-02.exe
+C:\Users\usu\Desktop\tps_laboratorio_ii\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\TP-02.pdb

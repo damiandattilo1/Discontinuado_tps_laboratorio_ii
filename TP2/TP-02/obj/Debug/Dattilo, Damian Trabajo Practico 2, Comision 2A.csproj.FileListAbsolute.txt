@@ -1,0 +1,20 @@
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\tp_laboratorio_2-master (6)\tp_laboratorio_2-master\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\tp_laboratorio_2-master (6)\tp_laboratorio_2-master\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\TP-02.exe
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\tp_laboratorio_2-master (6)\tp_laboratorio_2-master\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\TP-02.pdb
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\tp_laboratorio_2-master (6)\tp_laboratorio_2-master\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\Entidades.dll
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\tp_laboratorio_2-master (6)\tp_laboratorio_2-master\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\Entidades.pdb
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\tp_laboratorio_2-master (6)\tp_laboratorio_2-master\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\Dattilo, Damian Trabajo Practico 2, Comision 2A.csprojAssemblyReference.cache
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\tp_laboratorio_2-master (6)\tp_laboratorio_2-master\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\Dattilo, Damian Trabajo Practico 2, Comision 2A.csproj.CoreCompileInputs.cache
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\tp_laboratorio_2-master (6)\tp_laboratorio_2-master\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\Dattilo, Damian Trabajo Practico 2, Comision 2A.csproj.CopyComplete
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\tp_laboratorio_2-master (6)\tp_laboratorio_2-master\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\TP-02.exe
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\tp_laboratorio_2-master (6)\tp_laboratorio_2-master\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\TP-02.pdb
+C:\Users\usu\Desktop\-discontinuado-_tps_laboratorio_ii_2cuat_2021\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\usu\Desktop\-discontinuado-_tps_laboratorio_ii_2cuat_2021\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\TP-02.exe
+C:\Users\usu\Desktop\-discontinuado-_tps_laboratorio_ii_2cuat_2021\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\TP-02.pdb
+C:\Users\usu\Desktop\-discontinuado-_tps_laboratorio_ii_2cuat_2021\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\Entidades.dll
+C:\Users\usu\Desktop\-discontinuado-_tps_laboratorio_ii_2cuat_2021\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\bin\Debug\Entidades.pdb
+C:\Users\usu\Desktop\-discontinuado-_tps_laboratorio_ii_2cuat_2021\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\Dattilo, Damian Trabajo Practico 2, Comision 2A.csproj.AssemblyReference.cache
+C:\Users\usu\Desktop\-discontinuado-_tps_laboratorio_ii_2cuat_2021\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\Dattilo, Damian Trabajo Practico 2, Comision 2A.csproj.CoreCompileInputs.cache
+C:\Users\usu\Desktop\-discontinuado-_tps_laboratorio_ii_2cuat_2021\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\Dattilo, Damian Trabajo Practico 2, Comision 2A.csproj.CopyComplete
+C:\Users\usu\Desktop\-discontinuado-_tps_laboratorio_ii_2cuat_2021\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\TP-02.exe
+C:\Users\usu\Desktop\-discontinuado-_tps_laboratorio_ii_2cuat_2021\Trabajo Practico 2 Dattilo Damian Comision 2A\TP-02\obj\Debug\TP-02.pdb
